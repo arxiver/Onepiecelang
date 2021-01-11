@@ -7,5 +7,7 @@ It is concerned with splitting text into tokens. For example, “This is a whole
 While most of english is “almost” already segmented by white spaces, some languages such as chinese and some text sources such URLs may not have such a helpful property.  
 I will be concerned with segmenting text with no spaces.  
 
-> It can be solved with a unigram or bigram word model  
-> and a dynamic programming algorithm similar to the Viterbi algorithm.
+- It can be solved with a unigram or bigram word model  
+- and a dynamic programming algorithm similar to the Viterbi algorithm.
+
+More details are mentioned in the Report.pdf
