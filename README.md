@@ -1,14 +1,13 @@
 <br />
 <p align="center">
   <h2 align="center">Onepiecelang</h2>
-
   <p align="center">
+  <img src="https://user-images.githubusercontent.com/39674365/122943172-13b30380-d377-11eb-93b0-80ad47788e7b.png" height=200 width=200> <br>
     ·
     <a href="./Report.pdf">Report</a>
     ·
   </p>
 </p>
-
 
 Text segmentation solution using natural language processing.  
 It is concerned with splitting text into tokens. For example, “This is a whole sentence.” can be segmented into  
