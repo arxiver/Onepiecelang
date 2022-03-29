@@ -17,9 +17,9 @@ It is concerned with splitting text into tokens. For example, “This is a whole
 It​ ​is included in the folder “./data” which represents the ​ **unigram** ​of most
 frequent words ordered ascendingly
 
-## Description of the code attached
+## Description
 
-The code is divided into 4 functions
+The core is divided into 5 functions
 
 - read_unigrams
 - find_spaces
